@@ -15,3 +15,4 @@ I made this game as part of my Traditional Game Development class. I was given a
 ## My game
 
 I wanted to play around with coloring shaders and moving to set positions on a map. I also wanted to develop a simple AI. So I decided to make a game where the player moves around and tries to color the majority of the map their color. At set intervals a number of platforms will shift their height up or down, potentially blocking player's movements.
+The source code for this project is found [here](https://github.com/Thom-Roberts/3710SoloGame). I had also just finished playing the original Final Fantasy 7, which inspired the background music I used 🙂.
